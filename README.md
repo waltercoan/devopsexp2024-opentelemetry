@@ -1,4 +1,4 @@
-# Devops Experience Agosto 2024 - Observabilidade e Monitoramento de Aplicaçõescom OpenTelemetry + stack Grafana
+# Devops Experience Agosto 2024 - Observabilidade e Monitoramento de Aplicações com OpenTelemetry + stack Grafana
 
 29/08/2024
 
